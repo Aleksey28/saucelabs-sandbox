@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Aleksey28/saucelabs-sandbox/issues"
   },
-  "homepage": "https://github.com/Aleksey28/saucelabs-sandbox#readme"
+  "homepage": "https://github.com/Aleksey28/saucelabs-sandbox#readme",
+  "dependencies": {
+    "testcafe": "^2.1.0"
+  }
 }
